@@ -32,5 +32,5 @@ RDM6300 sends packet every 65ms when tag is near- better higher values for debou
 following calls will return 0 as long as the same tag is kept near.
 * ~~```bool update()``` - Updates the internal values must be called repeatedly!~~ **deprecated!**
 * ~~```bool is_tag_near()``` - Returns whether a tag is held near.~~ **deprecated!** use ```get_tag_id()```.
-## Enjoy!
+## Enjoy!!
 A.E.TECH
